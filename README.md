@@ -41,7 +41,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](#) *(coming soon)*  
+- 🌐 [Portfolio Website](https://portfolio-rushikesh-yemul.netlify.app/)  
 - 📧 Email: yemulrushikesh56@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rushikesh-yemul-51040322a/)  
 - 🐙 [GitHub](https://github.com/rushikeshyemul)
