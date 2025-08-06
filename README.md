@@ -1,48 +1,68 @@
-# 👋 Hello, I'm Rushikesh Yemul
+# 👋 Hi there, I'm Rushikesh Yemul
 
-🚀 Passionate Front-End Developer
-🎓 Final Year Student | M.G.M's College of Engineering, Nanded  
-🌐 Actively Building Smart Solutions with React.js, Node.js, Python, and AI  
+🎓 B.Tech (Information Technology) Graduate | M.G.M's College of Engineering, Nanded  
+💻 Full Stack Developer | AI Enthusiast  
+🚀 Passionate about Building Scalable Web Apps & Smart AI-Driven Solutions  
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
+**Languages**  
 `JavaScript` `Python` `SQL`  
 
-**Frontend:**  
-`React.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`  
+**Frontend**  
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
 
-**Backend & Databases:**  
-`Node.js` `MongoDB` `MySQL`   
+**Backend & Database**  
+`Node.js` `Express.js` `MongoDB` `MySQL`
 
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `Netlify` `VS Code`  
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `Postman` `Netlify`  
 
----
-
-## 🔥 Projects Highlights
-
-### ✅ Employee Management System (React JS)
-- Role-based access for Admin and Employees  
-- Task assignment, status tracking, and real-time dashboard  
-
-### 🎙️ Speech-to-Text Converter
-- Converts live audio to text using React JS `speech_recognition`  
-- Real-time UI with React.js  
+**Others**  
+`REST APIs` `AI Integration (LLMs)` `Prompt Engineering`  
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 AI-Powered Quiz web App  
+> A full-stack smart quiz web app with dynamic question generation using TogetherAI API  
+- **Tech:** React.js, Node.js, Express.js, MongoDB, TogetherAI API  
+- **Features:** User authentication, LLM-based quiz generation, timer, scoring, leaderboard  
+- 📂 [Code](https://github.com/rushikeshyemul/AI-Powered-Quiz-Maker)
+
+---
+
+### ✅ Employee Management System  
+> Role-based web app for task management  
+- **Tech:** React.js, Tailwind CSS  
+- **Features:** Admin & employee roles, dashboard, task tracking  
+
+---
+
+### 🎙️ Speech-to-Text Converter  
+> Converts live audio to text using Web Speech API  
+- **Tech:** React.js, JavaScript  
+- **Features:** Real-time transcription, clean UI  
+
+---
+
+### 🏫 Primary School Website  
+> Informational website for a primary school  
+- **Tech:** HTML, CSS, JS, PHP, SQL  
+- **Features:** Multi-page layout, responsive design, contact form  
+
+---
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://portfolio-rushikesh-yemul.netlify.app/)  
+- 🌐 [Portfolio](https://portfolio-rushikesh-yemul.netlify.app/)  
 - 📧 Email: yemulrushikesh56@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rushikesh-yemul-51040322a/)  
 - 🐙 [GitHub](https://github.com/rushikeshyemul)
 
 ---
 
-> “Code with passion, build with purpose.”
-
+> _“Code with passion. Build with purpose.”_
