@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rushikesh Yemul
 
 🎓 B.Tech (Information Technology) Graduate | M.G.M's College of Engineering, Nanded  
-💻 Full Stack Developer | AI Enthusiast  
+💻 Software Developer | AI Enthusiast  
 🚀 Passionate about Building Scalable Web Apps & Smart AI-Driven Solutions  
 
 ---
