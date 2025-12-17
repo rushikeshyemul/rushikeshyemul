@@ -12,7 +12,7 @@
 `JavaScript` `Python` `SQL`  
 
 **Frontend**  
-`React.js` `HTML5` `CSS3` `Tailwind CSS`
+`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
 
 **Backend & Database**  
 `Node.js` `Express.js` `MongoDB` `MySQL`
