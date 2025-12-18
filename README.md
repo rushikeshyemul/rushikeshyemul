@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rushikesh Yemul
+# Hi there, I'm Rushikesh Yemul
 
 🎓 B.Tech (Information Technology) Graduate | M.G.M's College of Engineering, Nanded  
 💻 Software Developer | AI Enthusiast  
